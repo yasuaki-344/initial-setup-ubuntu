@@ -14,6 +14,6 @@ sudo add-apt-repository \
    stable"
 sudo apt update
 sudo apt install -y docker-ce docker-ce-cli containerd.io
-sudo sevcie docker start
+sudo servcie docker start
 sudo docker run hello-world
-sudo sevcie docker stop
+sudo servcie docker stop

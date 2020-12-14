@@ -4,3 +4,4 @@
 ./setup-dotnet.sh
 ./setup-docker.sh
 ./setup-plantuml.sh
+./setup-cpp.sh
